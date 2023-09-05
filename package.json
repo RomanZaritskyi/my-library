@@ -1,5 +1,5 @@
 {
-  "name": "@RomanZaritskyi/my-library",
+  "name": "@easy-peasy/my-library",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.umd.js",
@@ -30,6 +30,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "@RomanZaritskyi:registry": "https://npm.pkg.github.com"
+    "@easy-peasy:registry": "https://npm.pkg.github.com"
   }
 }
